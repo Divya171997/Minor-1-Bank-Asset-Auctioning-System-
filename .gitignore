@@ -1,0 +1,6 @@
+# build output
+*.exe
+*.o
+# data files the program creates at runtime
+source/*.txt
+source/Record
